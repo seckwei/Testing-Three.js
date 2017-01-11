@@ -1,1 +1,1 @@
-Playing around with WebGL using THREE.JS  [link](seckwei.github.io/Testing-Three.js/)
+Playing around with WebGL using THREE.JS - [link](https://seckwei.github.io/Testing-Three.js/)
